@@ -299,7 +299,7 @@ def get_specifics(item):
             for product in products:
                 name = product.find('a', class_='title').get('title', '').strip()
 
-                if item[0].lower() in name.lower():
+                if item[0].lower() == name.lower():
                     try:
                         # Get product page URL
                         product_path = product.find('a', class_='title')['href']
