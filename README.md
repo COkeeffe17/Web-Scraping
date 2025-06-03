@@ -3,7 +3,7 @@ This is a project in which I will be learning/implementing web-scraping.
 
 # Where?
 
-I am testing this using a website called webscraper.io/test-sites. I believe this website exists to test a separate web scraper — the one the site is actually advertising/selling — but I thought it was perfect for testing my own scraper. It features various levels of difficulty by adding more and more layers of complexity in order to scrape the necessary data (shown below).
+I am testing this using a website called https://webscraper.io/test-sites. I believe this website exists to test a separate web scraper — the one the site is actually advertising/selling — but I thought it was perfect for testing my own scraper. It features various levels of difficulty by adding more and more layers of complexity in order to scrape the necessary data (shown below).
 
 <img width="1031" alt="WSS1" src="https://github.com/user-attachments/assets/29b0ab31-69b3-4b85-95d7-bbf2383f0aa7" />
 <img width="1033" alt="WSS2" src="https://github.com/user-attachments/assets/e7fa7482-8a00-4a95-b4c9-395ff5879eeb" />
