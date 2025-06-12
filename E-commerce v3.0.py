@@ -1,4 +1,4 @@
-# This is the ajax pagination version
+# This is the AJAX pagination version
 
 import requests
 from bs4 import BeautifulSoup
