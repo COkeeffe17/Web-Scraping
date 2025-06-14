@@ -1,3 +1,5 @@
+# This is the "Load More" buttons version
+
 import requests
 from bs4 import BeautifulSoup
 import os
