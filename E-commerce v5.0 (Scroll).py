@@ -1,5 +1,3 @@
-# This is the "Load items by scrolling" version
-
 import requests
 from bs4 import BeautifulSoup
 import os
